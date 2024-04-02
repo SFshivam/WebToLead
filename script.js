@@ -1,3 +1,4 @@
+
 function beforeSubmit(){
     let setLeadDate = document.querySelector(".setLeadDate");
     let inputLeadDate = document.querySelector(".inputLeadDate");
